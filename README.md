@@ -16,7 +16,7 @@
 
    ### 🛠 Technical Skills
 
- **Programming & Tools:**
+ **Languages & Tools:**
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,canva,git,github,vscode)](https://skillicons.dev)
 
