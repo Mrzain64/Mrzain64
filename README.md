@@ -17,7 +17,12 @@
 ### 🛠 Technical Skills
 **Languages & Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,git,github,vscode,canva,figma)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,git,github,vscode,figma" />
+  </a>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="48" style="vertical-align:top; margin-left: 5px;" />
+</p>
 
 <br/>
 
