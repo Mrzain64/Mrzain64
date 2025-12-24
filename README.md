@@ -3,8 +3,8 @@
 
 
 ### 🎓 Education
-* **SZABIST University** | [cite_start]BS Computer Science student[cite: 1, 13].
-* [cite_start]Focused on building a strong foundation in computer science and modern technologies[cite: 2, 3].
+* **SZABIST University** BS Computer Science.
+* Focused on building a strong foundation in computer science and modern technologies.
 
 <br/>
 
