@@ -1,4 +1,5 @@
-# Hi, I'm Zain Ul Abidin! 👋
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Hi+I'm+Zain+Ul+Abidin;CS+Student+at+SZABIST;Logic+Builder+and+Developer" alt="Typing SVG" />
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrzain64.Mrzain64)
 
 ### 🎓 Education
 * **SZABIST University** | BS Computer Science student.
@@ -56,5 +57,3 @@
 
 ---
 *“Continuously learning and evolving, one line of code at a time.”* 💻✨
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrzain64.Mrzain64)
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Hi+I'm+Zain+Ul+Abidin;CS+Student+at+SZABIST;Logic+Builder+and+Developer" alt="Typing SVG" />
