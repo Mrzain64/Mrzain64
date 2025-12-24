@@ -1,16 +1,17 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Hi+I'm+Zain+Ul+Abidin;CS+Student+at+SZABIST;Logic+Builder+and+Developer" alt="Typing SVG" />
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrzain64.Mrzain64)
 
+
 ### 🎓 Education
-* **SZABIST University** | BS Computer Science student.
-* Focused on building a strong foundation in computer science and modern technologies.
+* **SZABIST University** | [cite_start]BS Computer Science student[cite: 1, 13].
+* [cite_start]Focused on building a strong foundation in computer science and modern technologies[cite: 2, 3].
 
 <br/>
 
 ### 👨‍💻 About Me
 * 🚀 I am a passionate Computer Science student who loves solving complex problems through logic and code.
 * 💡 I enjoy learning how software works under the hood—from low-level programming to high-level web technologies.
-* 🛠️ Currently, I am dedicated to honing my skills in software development and staying updated with industry trends.
+* ✍️ **Experienced Blogger:** Previously managed and ran a personal blogging website, gaining experience in content strategy and site management.
 * 🎯 My goal is to leverage my academic knowledge to build efficient, scalable, and user-friendly solutions.
 
 <br/>
@@ -20,10 +21,14 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,wordpress,git,github,vscode,figma" />
   </a>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="48" style="vertical-align:top; margin-left: 5px;" />
 </p>
+
+* **Core Logic:** C, C++, and Python.
+* **Database:** MySQL Server.
+* **CMS & Design:** WordPress, Canva, and Figma.
 
 <br/>
 
