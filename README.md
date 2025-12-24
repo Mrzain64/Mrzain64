@@ -16,28 +16,34 @@
 
 ### 🛠 Technical Skills
 **Languages & Tools:**
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,canva,git,github,vscode,figma)](https://skillicons.dev)
 
-* **Core Logic:** C, C++, and Python.
-* **Database:** MySQL Server.
-* **Web Tech:** HTML5, CSS3, and JavaScript.
-* **Design:** Canva & Figma.
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,canva,git,github,vscode)](https://skillicons.dev)
 
 <br/>
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/all-zain-2a07312a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zain-linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/APNA_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zain-instagram" height="30" width="40" /></a>
-<a href="mailto:alizain097131@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="alizain" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/all-zain-2a07312a9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/APNA_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:alizain097131@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 <br/>
 
 ### 📊 GitHub Activity
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrzain64&show_icons=true&theme=radical" alt="Zain's stats" />
-  <br/>
+</p>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrzain64&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </p>
 
