@@ -17,7 +17,7 @@
 ### 🛠 Technical Skills
 **Languages & Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,canva,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,git,github,vscode,canva,figma)](https://skillicons.dev)
 
 <br/>
 
