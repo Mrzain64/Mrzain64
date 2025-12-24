@@ -1,4 +1,4 @@
-###### Hi, I'm Zain Ul Abidin! 👋
+# Hi, I'm Zain Ul Abidin! 👋
 
 ### 🎓 Education
 * **SZABIST University** | BS Computer Science student.
@@ -14,33 +14,32 @@
 
 <br/>
 
-   ### 🛠 Technical Skills
-
- **Languages & Tools:**
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,canva,git,github,vscode)](https://skillicons.dev)
-
+### 🛠 Technical Skills
+**Languages & Tools:**
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,canva,git,github,vscode,figma)](https://skillicons.dev)
 
 * **Core Logic:** C, C++, and Python.
 * **Database:** MySQL Server.
 * **Web Tech:** HTML5, CSS3, and JavaScript.
-* **Design:** Canva.
+* **Design:** Canva & Figma.
 
 <br/>
 
 ### 🤝 Connect with Me
-<a href="https://linkedin.com/in/ali-zain-2a07312a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zain-linkedin" height="30" width="40" /></a>
-
-<a href="https://instagram.com/mr.zain_64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zain-instagram" height="30" width="40" /></a>
-
-<a href="mailto:alizain097131@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="zain-email" height="30" width="40" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/all-zain-2a07312a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zain-linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/APNA_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zain-instagram" height="30" width="40" /></a>
+<a href="mailto:alizain097131@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="alizain" height="30" width="40" /></a>
+</p>
 
 <br/>
 
 ### 📊 GitHub Activity
-![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrzain64&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrzain64&layout=compact&theme=vision-friendly-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrzain64&show_icons=true&theme=radical" alt="Zain's stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrzain64&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+</p>
 
 <br/>
 
